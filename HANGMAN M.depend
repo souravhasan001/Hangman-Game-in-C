@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1641373795 source:f:\new folder\hangman m\hangman main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<windows.h>
+	<MMsystem.h>
+
